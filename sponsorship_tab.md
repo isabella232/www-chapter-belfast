@@ -1,12 +1,10 @@
 ---
-title: OWASP Belfast Sponsorship
+title: OWASP Belfast Sponsorship Opportunities
 layout:  null
 tab: true
 order: 1
 tags: sponsorship
 ---
-
-## OWASP Belfast Sponsorship Opportunities
 
 There are many ways you can help the OWASP Belfast Chapter spread the word about computer security and secure coding. Including the following:
 
