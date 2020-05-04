@@ -1,5 +1,5 @@
 ---
-title: Sponsorship
+title: Sponsorship Opportunities
 layout:  null
 tab: true
 order: 1
