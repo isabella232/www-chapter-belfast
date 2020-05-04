@@ -1,5 +1,5 @@
 ---
-title: OWASP Belfast Sponsorship Opportunities
+title: Sponsorship
 layout:  null
 tab: true
 order: 1
