@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Belfast
-tags: example-tag
+tags: sponsorship
 level: 0
 
 region: Europe
