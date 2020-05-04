@@ -1,5 +1,5 @@
 ---
-title: Example
+title: OWASP Belfast Sponsorship
 layout:  null
 tab: true
 order: 1
