@@ -6,6 +6,9 @@ tags: sponsorship
 level: 0
 
 region: Europe
+meetup-group: OWASP-Belfast
+country: United Kingdom
+postal-code: 
 
 ---
 
