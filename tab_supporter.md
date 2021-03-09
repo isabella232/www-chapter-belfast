@@ -1,9 +1,9 @@
 ---
-title: Sponsorship
+title: Supporter
 layout:  null
 tab: true
 order: 1
-tags: sponsorship
+tags: supporter
 ---
 
 There are many ways you can help the OWASP Belfast Chapter spread the word about computer security and secure coding. Including the following:
