@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Belfast
-tags: supporter
+tags: pastevents, supporter
 level: 0
 
 region: Europe
