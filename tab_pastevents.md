@@ -15,7 +15,7 @@ Below is a list of the previous events details
 
 ### 2021
 * [2021-05-24](https://www.meetup.com/OWASP-Belfast/events/278161807/):
-    1. OWASP Belfast Top 10 Series: A1 Injections, Gary Robinson, Denis Podgurskii
+    1. OWASP Belfast Top 10 Series: A1 Injections, Gary Robinson, Denis Podgurskii - [slides] (https://drive.google.com/file/d/1_cxFK3PIEhk7gtaUpPzhx679cdMAS-97/view)
 * [2021-04-26](https://www.meetup.com/OWASP-Belfast/events/277522021/):
     1. Career path in cybersecurity. Part 0. Denis Podgurskii, Gary Robinson - [video](https://drive.google.com/file/d/1qaP0Nns_pbTH_FJuBWGMFQfBpddcX9l3/view)
     
