@@ -9,3 +9,4 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Belfast/)
+* [Twitter](https://twitter.com/OWASPBelfast)
