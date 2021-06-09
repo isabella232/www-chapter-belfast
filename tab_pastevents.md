@@ -4,7 +4,7 @@ displaytext: Past Events
 layout:  null
 tab: true
 order: 1
-tags: belfast-tag
+tags: pastevents
 ---
 
 For the next scheduled events, pleave visit the [Meetup](https://www.meetup.com/owasp-belfast/) page. 
