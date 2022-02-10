@@ -32,7 +32,7 @@ Opportunity to network with other Software Professionals and keep in touch with 
 ## February 10th 2022 Zero Trust for API Risk Management
 ### Baljeet Malhotra, Founder & CEO at TeejLab Inc.
 
-Time & Place: 10 Feb 2022 - [Meetup](https://www.meetup.com/ru-RU/OWASP-Belfast/events/283122192/) - [Zoom](TBD)
+Time & Place: 10 Feb 2022 - [Meetup](https://www.meetup.com/ru-RU/OWASP-Belfast/events/283122192/) - [Zoom](https://us02web.zoom.us/j/86938774204?pwd=QjhBNEVCRG01czZFdCtZbXl5Y21OZz09)
 
 ## Local News
 - See the Meetup Page for latest details for upcoming or previous chapter events.
